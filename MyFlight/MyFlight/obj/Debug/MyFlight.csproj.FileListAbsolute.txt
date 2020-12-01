@@ -1,0 +1,28 @@
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\bin\Debug\MyFlight.exe.config
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\bin\Debug\MyFlight.exe
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\bin\Debug\MyFlight.pdb
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\obj\Debug\MyFlight.csprojResolveAssemblyReference.cache
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\obj\Debug\MyFlight.frmEstimate.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\obj\Debug\MyFlight.Properties.Resources.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\obj\Debug\MyFlight.csproj.GenerateResource.Cache
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\obj\Debug\MyFlight.exe
+c:\users\swdev06\documents\visual studio 2015\Projects\MyFlight\MyFlight\obj\Debug\MyFlight.pdb
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\bin\Debug\MyFlight.exe.config
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.exe
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.pdb
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\bin\Debug\MyFlight.exe
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\bin\Debug\MyFlight.pdb
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.frmEstimate.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\bin\Debug\MyFlight.exe.config
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\bin\Debug\MyFlight.exe
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\bin\Debug\MyFlight.pdb
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.csprojAssemblyReference.cache
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.frmEstimate.resources
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.csproj.GenerateResource.cache
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.exe
+C:\Users\Andrzej\Desktop\WSZYSTKO Z PULPITU\BladeCopyBeforeUbuntu\C#\week7\MyFlight\MyFlight\obj\Debug\MyFlight.pdb
