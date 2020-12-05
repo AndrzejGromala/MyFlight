@@ -1,0 +1,1 @@
+Project created in C#. Radio buttons allow for selection of the destination city. Go button displays the options of the type of flight and date selection. After the date is selected and GO button clicked the prices are displayed with VAT and without VAT.
